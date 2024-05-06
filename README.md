@@ -51,7 +51,6 @@ git checkout -b feature_branch_name
 git commit -am 'Add some feature'
 # Push to the branch
 git push origin feature_branch_name
-# Create a new Pull Request
 ```
 
 ## License
